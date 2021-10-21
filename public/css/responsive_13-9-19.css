@@ -1,0 +1,120 @@
+
+@media screen and (max-width: 1400px){
+ .ptb { padding: 70px 0;}
+ .main-heading h2 {font-size: 35px;}
+ .ptb.home-block-01 .main-heading,
+ .main-heading,.home-block-03 .main-heading{margin-bottom: 50px;}
+ .home-block-04 {padding: 60px 0 195px;}
+ .home-block-03 .box .title { font-size: 22px;margin-bottom: 20px;}
+ .home-block-03 .box .price {font-size: 26px; margin-bottom: 15px;}
+ .home-block-03 .box .price::before{font-size: 24px;}
+ .home-block-02 .home-block-02-content .card {padding: 85px 45px;}
+ .home-block-03 .box ul li {margin-bottom: 15px;}
+.banner-slider-outer .owl-carousel .item .slider-caption .content-block h1 { font-size: 40px; margin-bottom: 20px;}
+
+
+/***********table*************/
+.banner-inst-text {min-height: 260px;}
+.banner-inst-text h1 {font-size: 36px;}
+}
+
+@media screen and (max-width: 1199px){
+ .home-block-03 .box .view-btn {padding: 15px 0; width: 180px;}
+}
+
+@media screen and (max-width: 991px)
+{
+.ptb {padding: 50px 0;}
+.main-heading h2 {font-size: 30px;}
+.ptb.home-block-01 .main-heading,
+.main-heading,.home-block-03 .main-heading{margin-bottom: 30px;}
+.ptb.home-block-01 .card .card-img { width: 95px; height: 90px;}
+.ptb.home-block-01 .card .card-body { padding: 16px 0 0;}
+.ptb.home-block-01 .card .card-body .card-title {font-size: 18px; margin-bottom: 5px;}
+.home-block-02 .home-block-02-content .card { padding: 40px 20px;}
+.home-block-02 .home-block-02-content .card .card-body .card-title {font-size: 18px; margin-bottom: 15px;}
+.home-block-03 .box .price { font-size: 20px; margin-bottom: 15px;}
+.home-block-03 .box .price::before{font-size: 20px; margin-right: 5px;}
+.home-block-03 .box ul li {margin-bottom: 10px; font-size: 15px;}
+.home-block-03 .box .img-block { margin-bottom: 15px}
+.home-block-03 .box .img-block img{width: 95px;}
+.home-block-04 .main-heading {margin-top: 60px;}
+.home-block-04{padding: 50px 0 245px;}
+.home-block-04 .home-block-04-right .box.box-02 { right: 30px; bottom: -230px;}
+.home-block-04 .home-block-04-right .box.box-01::before {bottom: -18px;  right: 23px;}
+.logo img {width: 190px;}
+.banner-slider-outer .owl-carousel .item .slider-caption .content-block h1 {font-size: 30px;  margin-bottom: 15px;}
+.banner-slider-outer .owl-carousel .item .slider-caption .img-block { width: 370px; padding-right: 15px;}
+.banner-slider-outer .owl-carousel .item .slider-caption {padding: 60px 0;}
+.banner-slider-outer .owl-carousel .item .slider-caption .content-block p {margin-bottom: 15px;}
+}
+@media screen and (max-width: 767px)
+{
+.main-heading h2 {font-size: 25px;}
+.ptb {padding: 30px 0;}
+.ptb.home-block-01 .main-heading, .main-heading, .home-block-03 .main-heading {margin-bottom: 20px;}
+.ptb.home-block-01 .card .card-img {width: 75px;height: 70px;}
+.ptb.home-block-01 .card .card-body {padding: 10px 0 0;}
+.ptb.home-block-01 .card {margin-bottom: 15px;}
+.ptb.home-block-01 .card .card-body .card-title { font-size: 17px;margin-bottom: 0;}
+.home-block-02 .home-block-02-content .card {padding: 15px;}
+.home-block-02 .home-block-02-content .card .card-body {padding: 15px 0 0;}
+.home-block-02 .home-block-02-content .card .card-img {width: 50px; height: 50px;}
+.home-block-03 .box .img-block img { width: 75px;}
+.home-block-03 .box .view-btn { position: static;transform: none}
+.home-block-03 .box .img-block { margin-bottom: 10px;}
+.home-block-03 .box .price {font-size: 18px; margin-bottom: 10px;}
+.home-block-03 .box .price::before{font-size: 18px;}
+.home-block-03 .box ul {padding-bottom: 20px;}
+.home-block-03 .box .view-btn, .home-block-04 .view-btn{ padding: 12px 0; width: 150px; font-size: 14px;}
+.home-block-03 .box {padding-bottom: 30px;}
+.home-block-04 .home-block-04-right .box.box-02 { position: static; margin-top: 30px;}
+.home-block-04 .home-block-04-right { justify-content: center;}
+.home-block-04 .main-heading { margin-top: 0; text-align: center;}
+.home-block-04 .view-btn {position: static; text-align: center; margin-top: 60px;}
+.banner-slider-outer .owl-carousel .item .slider-caption .img-block{width: 100%; text-align: center;}
+.banner-slider-outer .owl-carousel .item .slider-caption .img-block img{width: auto; margin: auto;}
+.banner-slider-outer .owl-carousel .item .slider-caption .content-block { text-align: center; margin-top: 20px;}
+.banner-slider-outer .owl-carousel .item .slider-caption .content-block h1 {font-size: 26px;}
+.logo img { width: 140px;}
+.banner-slider-outer .owl-carousel .item .slider-caption {padding: 30px 0;}
+.header .register { padding: 8px 10px; font-size: 14px;}
+.banner-slider-outer .owl-carousel .item .slider-caption .content-block .btn-outer .view-btn { padding: 12px 16px; font-size: 14px;}
+.border-gray::before{display: none;}
+.view-btn.back-btn { margin: 15px 0 15px;}
+footer.footer p {padding: 15px 0;}
+.header .header-inner {justify-content:center;}
+
+/***********table*************/
+.banner-inst-text {min-height:inherit; padding: 20px 0;}
+.banner-inst-text h1 {font-size:26px; font-weight:500; padding:0 0 10px;}
+.banner-inst-text p {font-size: 14px;}
+.client-table-outer{padding:30px 0;}
+.client-table .table-bordered th {font-weight: 500; padding: 14px 10px;font-size: 14px;letter-spacing:0;}
+.client-table .table-bordered td {font-weight: 500; padding: 14px 10px;font-size: 14px; letter-spacing:0;}
+.client-table .more-btn {font-size: 14px;font-weight: 500;width: 90px;padding: 10px 0;letter-spacing: 0px;}
+.rating-box .fa {font-size: 15px; margin:0;}
+.tbl-logo {min-width: 100px;}
+.popup-box h4 {font-size: 24px;padding: 12px 0 0 0;}
+.popup-body {padding: 12px 15px 0;margin: -30px 10px 20px;}
+.popup-body p {font-size: 14px;}
+.popup-body ul {padding: 0;}
+.popup-body ul li {font-size: 14px;line-height: 20px;}
+} 
+
+
+@media screen and (max-width: 575px)
+{
+.home-block-02 .home-block-02-content .box{width:100%;}	
+.home-block-02 .home-block-02-content .box:nth-child(odd) .card{background: #1e74b7 !important;}
+.home-block-02 .home-block-02-content .box:nth-child(even) .card{background: #2e2e2e!important;}
+.border-bottom::before{display: block;}
+.d-flex-custom {flex-direction:column;}
+.d-flex-custom input {width:100%; margin-top:10px;}
+}
+
+		
+@media screen and (max-width: 479px)
+{ 
+  
+}
